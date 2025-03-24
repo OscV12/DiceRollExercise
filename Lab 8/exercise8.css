@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 20px;
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg");
+}
+
+h1 {
+  color: black;
+  font-size: 3em;
+}
+
+button {
+  background-color: blue;
+  color: whitesmoke;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: darkblue;
+}
